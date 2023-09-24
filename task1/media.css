@@ -1,0 +1,309 @@
+@media only screen and (max-width:811px)
+{
+  body
+  {
+    overflow-x: hidden;
+  }
+  .first nav h2{
+    text-align: center;
+  }
+  .first nav
+  {
+    flex-direction: column;
+
+  }
+  .welcome
+  {
+    top: 30%;
+  }
+  .welcome h1{
+    font-size: 6vh;
+  }
+  .welcome h3{
+    font-size: 2vh;
+  }
+  .nav-buttons
+  {
+    text-align: center;
+  }
+  .nav-buttons #bt2
+  
+  {
+    padding: 1.3vh 3.2vw;
+  }
+    .second h2{
+        text-transform: capitalize;
+        font-weight: bolder;
+        color: white;
+        font-size: 6vh;  
+    
+    }
+    .second
+{
+
+    display: flex;
+     flex-direction: column;
+     overflow-x: hidden;
+ 
+}
+.second p
+{
+    width: 80vw;
+    margin-top: 2.5vh;
+}
+.cards p {
+    width: 60vw;
+    height: 10vh;
+    margin-bottom: 2vh;
+    opacity: 0.9;
+    color: grey;
+ }
+ .cards
+ {
+    flex-wrap: wrap;
+ }
+
+ .card1 {
+    width: 70vw;
+    height: 25vh;
+ }
+
+ .card1 img{
+    mix-blend-mode: darken;
+    height: 8vh;
+    width: 20vw;
+    border-radius: 10px;
+
+}
+.card2 {
+    width: 70vw;
+    height: 25vh;
+ }
+
+ .card2 img{
+    height: 8vh;
+    width: 20vw;
+    border-radius: 10px;
+
+}
+.card3 {
+    width: 70vw;
+    height: 25vh;
+    padding-left: 2vw;
+    padding-top:4vh;
+    margin-top: 5vh;
+ }
+
+ .card3 img{
+    height: 8vh;
+    width: 20vw;
+    border-radius: 10px;
+
+}
+.card4 {
+    width: 70vw;
+    height: 25vh;
+ }
+
+ .card4 img{
+    height: 8vh;
+    width: 20vw;
+    border-radius: 10px;
+
+}
+
+.third p{
+    color: white;
+    opacity: 0.8;
+    width: 70vw;
+
+}
+#shop1
+{
+
+ width: 40vw;
+
+}
+#shop1 img
+{
+    width: inherit;
+    height: 35vh;
+
+}
+
+#shop2
+{
+
+ width: 40vw;
+
+}
+#shop2 img
+{
+    width: inherit;
+    height: 35vh;
+
+}
+#shop3
+{
+
+ width: 40vw;
+
+}
+#shop3 img
+{
+    width: inherit;
+    height: 35vh;
+
+}
+#shop4
+{
+
+ width: 40vw;
+
+}
+#shop4 img
+{
+    width: inherit;
+    height: 35vh;
+
+}
+
+
+
+
+
+
+.learn
+{
+    margin-top: 2vh;
+}
+#card-t
+{
+    width: 30vw;
+}
+.price
+{
+    margin-top: 2vh;
+}
+
+
+
+
+.fourth{
+    flex-direction: column;
+}
+.fourth img
+{
+    height: auto;
+    width: 82vw;
+}
+.cont4 p{
+    width: 82vw;
+}
+.cont4 hr
+{
+    margin-top: -2vh;
+}
+
+
+.fifth img
+{
+   position: relative;
+   bottom: 10vh;
+   width: 30vw;
+   left: 12vw;
+ 
+}
+.cont5 p
+{
+    width: 60vw;
+}
+.profileCard img{
+    width: 35vw;
+    object-fit: cover;
+    border-radius: 50%;
+    padding: 3vh 3vw;
+
+}
+.sixth p
+{
+    width: 60vw;
+}
+#card1 
+{width: 72vw;}
+#card2 
+{width: 72vw;}
+#card1 p
+{
+  width: 60vw;
+}
+#card2 p
+{
+  width: 60vw;
+}
+.seventh
+{
+    padding-left: 11vw;
+}
+.prof
+{
+    gap: 5vw;
+}
+.seventh p
+{
+    width: 70vw;
+}
+.p-card1{
+    width: 35vw;
+}
+.p-card1 img{
+    width: 35vw;
+    object-fit: cover;
+}
+.p-card2{
+    width: 35vw;
+}
+.p-card2 img{
+    width: 35vw;
+    object-fit: cover;
+}
+.p-card3{
+    width: 35vw;
+}
+.p-card3 img{
+    width: 35vw;
+    object-fit: cover;
+}
+.p-card4{
+    width: 35vw;
+}
+.p-card4 img{
+    width: 35vw;
+    object-fit: cover;
+}
+.prof h3{
+    font-size: 2.5vh;
+}
+.icons i
+{
+    font-size: 3vh;
+}
+
+.eight
+{
+    padding-left: 5vw;
+}
+
+.eight p
+{
+    width: 70vw;
+}
+input{
+    width: 50vw;
+}
+
+
+ul li{
+    font-size: 1.5vh;
+}
+}
