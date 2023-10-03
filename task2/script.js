@@ -16,7 +16,7 @@ function Play() {
             moles.style.display = "block";
             clearInterval(Interval)
 
-        }, 1000);
+        }, 700);
 
        moles.style.display = "none";
         remaining.innerHTML="Remaining: " + --remainCount;
@@ -27,7 +27,7 @@ function Play() {
             clearInterval(Interval)
             Changes();
  }
- }, 2000);
+ }, 1000);
 
 }
 Play();
